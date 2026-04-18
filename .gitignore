@@ -1,0 +1,30 @@
+# Compiled C binaries
+*.exe
+*.o
+*.obj
+c-refresher/day1_basics
+c-refresher/day2_pointers
+c-refresher/day3_arrays_memory
+c-refresher/day4_structs_unions_bitfields
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE/editor artifacts
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Eclipse CDT
+.metadata/
+.settings/
+.project
+.cproject
+Debug/
+Release/
